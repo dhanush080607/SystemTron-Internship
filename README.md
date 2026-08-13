@@ -7,16 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:06B6D4,100:10B981&height=180&section=header&text=SYSTEMTRON%20INTERNSHIP&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Journey&descAlignY=60&descSize=20" width="100%" alt="Systemtron Internship Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=120&section=header&text=SYSTEMTRON&fontSize=42&fontColor=06B6D4&animation=fadeIn&fontAlignY=45" width="100%" alt="Systemtron"/>
 </p>
 
 <p align="center">
-  <b>Building. Learning. Experimenting. Growing.</b>
+  <b>AI & Data Science Internship Journey</b>
 </p>
 
 <p align="center">
-  This repository documents my 8-week internship journey at <b>Systemtron</b>,
-  including weekly tasks, assignments, and AI-powered projects.
+  <i>Building • Learning • Experimenting • Growing</i>
 </p>
 
 ---
@@ -364,5 +363,5 @@ If you find this repository interesting, feel free to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:0B1020&height=130&section=footer&animation=fadeIn" width="100%" alt="Systemtron Internship Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:0B1020&height=100&section=footer&animation=fadeIn" width="100%" alt="Systemtron Internship Footer"/>
 </p>
