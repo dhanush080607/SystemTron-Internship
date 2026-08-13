@@ -1,13 +1,17 @@
 # 🚀 Systemtron Internship | AI & Data Science Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systemtron-Internship-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Duration-8%20Weeks-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systemtron-Internship-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Duration-8%20Weeks-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science-00C9A7?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Building. Learning. Experimenting. Growing.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:00BFFF,100:8A2BE2&height=180&section=header&text=SYSTEMTRON%20INTERNSHIP&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Journey&descAlignY=60&descSize=20" width="100%" alt="Systemtron Internship Rainbow Header"/>
+</p>
+
+<p align="center">
+  <b>🌈 Building. Learning. Experimenting. Growing.</b>
 </p>
 
 <p align="center">
@@ -93,7 +97,7 @@ An AI-powered application that analyzes resume content and provides intelligent 
 # 🗺️ Internship Journey
 
 ```text
-                 🚀 SYSTEMTRON INTERNSHIP
+                 🌈 SYSTEMTRON INTERNSHIP
                           │
                           ▼
               ┌───────────────────────┐
@@ -132,14 +136,14 @@ An AI-powered application that analyzes resume content and provides intelligent 
 
 | Week      | Focus                             |
 | --------- | --------------------------------- |
-| 🟢 Week 1 | Python & Programming Fundamentals |
-| 🟢 Week 2 | Data Handling & Preprocessing     |
-| 🟢 Week 3 | Data Analysis & Visualization     |
+| 🔴 Week 1 | Python & Programming Fundamentals |
+| 🟠 Week 2 | Data Handling & Preprocessing     |
+| 🟡 Week 3 | Data Analysis & Visualization     |
 | 🟢 Week 4 | Machine Learning & AI Concepts    |
 | 🔵 Week 5 | AI Resume Generator               |
-| 🔵 Week 6 | AI Application Development        |
-| 🔵 Week 7 | AI Resume Analyzer                |
-| 🔵 Week 8 | Project Completion & Final Tasks  |
+| 🟣 Week 6 | AI Application Development        |
+| 🌈 Week 7 | AI Resume Analyzer                |
+| 💗 Week 8 | Project Completion & Final Tasks  |
 
 > Each week helped me gradually move from **learning concepts → solving problems → building AI applications**.
 
@@ -156,17 +160,17 @@ An AI-powered application that analyzes resume content and provides intelligent 
 ### 🤖 Artificial Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-00C9A7?style=for-the-badge"/>
 </p>
 
 ### 📊 Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-FF7F00?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
 </p>
 
 ### 🌐 Application Development
@@ -178,9 +182,9 @@ An AI-powered application that analyzes resume content and provides intelligent 
 ### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -288,22 +292,25 @@ An AI-powered application that analyzes resume content and provides intelligent 
 # 🌱 My Growth Journey
 
 ```text
-        LEARN
-          │
-          ▼
-      EXPERIMENT
-          │
-          ▼
-        BUILD
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-        REPEAT 🔁
+        🌱 LEARN
+           │
+           ▼
+       🧪 EXPERIMENT
+           │
+           ▼
+        🔨 BUILD
+           │
+           ▼
+       🐛 DEBUG
+           │
+           ▼
+       ⚡ IMPROVE
+           │
+           ▼
+        🔁 REPEAT
+           │
+           ▼
+       🚀 GROW
 ```
 
 > 💡 **The goal wasn't just to complete tasks — it was to understand how ideas become real applications.**
@@ -316,9 +323,9 @@ My Systemtron internship was an important step in my journey toward becoming a d
 
 From learning the fundamentals to building AI-powered applications, this internship helped me gain practical experience and confidence in developing real-world solutions.
 
-> 🚀 **Every project starts with an idea.
-> Every skill starts with learning.
-> Every journey starts with the first step.**
+> 🚀 **Every project starts with an idea.**
+> **Every skill starts with learning.**
+> **Every journey starts with the first step.**
 
 And this is just the beginning. 🔥
 
@@ -336,7 +343,7 @@ And this is just the beginning. 🔥
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you find this repository interesting, feel free to:
 
@@ -349,9 +356,13 @@ If you find this repository interesting, feel free to:
 ---
 
 <p align="center">
-  <b>🚀 Keep Learning. Keep Building. Keep Growing. 🚀</b>
+  <b>🌈 Keep Learning. Keep Building. Keep Growing. 🌈</b>
 </p>
 
 <p align="center">
   Made with ❤️ by <b>Dhanush</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:00BFFF,40:00FF00,60:FFFF00,80:FF7F00,100:FF0000&height=130&section=footer&animation=fadeIn" width="100%" alt="Rainbow Footer"/>
 </p>
