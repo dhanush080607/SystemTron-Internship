@@ -1,17 +1,17 @@
 # 🚀 Systemtron Internship | AI & Data Science Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systemtron-Internship-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Duration-8%20Weeks-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science-00C9A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systemtron-Internship-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Duration-8%20Weeks-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science-6366F1?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:00BFFF,100:8A2BE2&height=180&section=header&text=SYSTEMTRON%20INTERNSHIP&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Journey&descAlignY=60&descSize=20" width="100%" alt="Systemtron Internship Rainbow Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:06B6D4,100:10B981&height=180&section=header&text=SYSTEMTRON%20INTERNSHIP&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Journey&descAlignY=60&descSize=20" width="100%" alt="Systemtron Internship Header"/>
 </p>
 
 <p align="center">
-  <b>🌈 Building. Learning. Experimenting. Growing.</b>
+  <b>Building. Learning. Experimenting. Growing.</b>
 </p>
 
 <p align="center">
@@ -97,37 +97,37 @@ An AI-powered application that analyzes resume content and provides intelligent 
 # 🗺️ Internship Journey
 
 ```text
-                 🌈 SYSTEMTRON INTERNSHIP
-                          │
-                          ▼
-              ┌───────────────────────┐
-              │       WEEK 1–4        │
-              │  Foundation & Skills  │
-              └───────────┬───────────┘
-                          │
-                          ▼
-              🐍 Python Programming
-              📊 Data Science
-              🧹 Data Preprocessing
-              📈 Data Visualization
-              🧠 Machine Learning
-              🤖 AI Concepts
-                          │
-                          ▼
-              ┌───────────────────────┐
-              │       WEEK 5–8        │
-              │   Project Development │
-              └───────────┬───────────┘
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-        📝 AI Resume          🔍 AI Resume
-           Generator             Analyzer
-                 │                 │
-                 └────────┬────────┘
-                          ▼
-                 🎯 Practical AI
-                    Experience
+                 SYSTEMTRON INTERNSHIP
+                         │
+                         ▼
+             ┌───────────────────────┐
+             │       WEEK 1–4        │
+             │  Foundation & Skills  │
+             └───────────┬───────────┘
+                         │
+                         ▼
+             🐍 Python Programming
+             📊 Data Science
+             🧹 Data Preprocessing
+             📈 Data Visualization
+             🧠 Machine Learning
+             🤖 AI Concepts
+                         │
+                         ▼
+             ┌───────────────────────┐
+             │       WEEK 5–8        │
+             │   Project Development │
+             └───────────┬───────────┘
+                         │
+                ┌────────┴────────┐
+                ▼                 ▼
+       📝 AI Resume          🔍 AI Resume
+          Generator             Analyzer
+                │                 │
+                └────────┬────────┘
+                         ▼
+                🎯 Practical AI
+                   Experience
 ```
 
 ---
@@ -136,14 +136,14 @@ An AI-powered application that analyzes resume content and provides intelligent 
 
 | Week      | Focus                             |
 | --------- | --------------------------------- |
-| 🔴 Week 1 | Python & Programming Fundamentals |
-| 🟠 Week 2 | Data Handling & Preprocessing     |
-| 🟡 Week 3 | Data Analysis & Visualization     |
+| 🟢 Week 1 | Python & Programming Fundamentals |
+| 🟢 Week 2 | Data Handling & Preprocessing     |
+| 🟢 Week 3 | Data Analysis & Visualization     |
 | 🟢 Week 4 | Machine Learning & AI Concepts    |
 | 🔵 Week 5 | AI Resume Generator               |
-| 🟣 Week 6 | AI Application Development        |
-| 🌈 Week 7 | AI Resume Analyzer                |
-| 💗 Week 8 | Project Completion & Final Tasks  |
+| 🔵 Week 6 | AI Application Development        |
+| 🟣 Week 7 | AI Resume Analyzer                |
+| 🟣 Week 8 | Project Completion & Final Tasks  |
 
 > Each week helped me gradually move from **learning concepts → solving problems → building AI applications**.
 
@@ -154,37 +154,37 @@ An AI-powered application that analyzes resume content and provides intelligent 
 ### 👨‍💻 Programming
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🤖 Artificial Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge"/>
 </p>
 
 ### 📊 Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-FF7F00?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-6366F1?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-10B981?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge"/>
 </p>
 
 ### 🌐 Application Development
 
 <p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-10B981?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-06B6D4?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-6366F1?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -356,7 +356,7 @@ If you find this repository interesting, feel free to:
 ---
 
 <p align="center">
-  <b>🌈 Keep Learning. Keep Building. Keep Growing. 🌈</b>
+  <b>💠 Keep Learning. Keep Building. Keep Growing. 💠</b>
 </p>
 
 <p align="center">
@@ -364,5 +364,5 @@ If you find this repository interesting, feel free to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:00BFFF,40:00FF00,60:FFFF00,80:FF7F00,100:FF0000&height=130&section=footer&animation=fadeIn" width="100%" alt="Rainbow Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:0B1020&height=130&section=footer&animation=fadeIn" width="100%" alt="Systemtron Internship Footer"/>
 </p>
